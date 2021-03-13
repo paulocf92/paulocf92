@@ -2,7 +2,7 @@
 
 <img align='right' src='https://media.tenor.com/images/5e43669b9573fea08ede20a5bbbbe2df/tenor.gif' width='200'>
 
-Front-end Developer student at [Rocketseat](https://rocketseat.com.br/)
+Front-end Development student at [Rocketseat](https://rocketseat.com.br/)
 
 <a href="https://linkedin.com/in/paulocf92"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://twitter.com/paulocf92"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>

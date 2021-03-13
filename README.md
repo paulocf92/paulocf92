@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1563481442/6026/meow_sip.png?1563481442" width="30"/> Hi there, I'm Paulo!</h1>
 
-<img align='right' src='https://media1.tenor.com/images/841aeb9f113999616d097b414c539dfd/tenor.gif?itemid=5368357' width='200'>
+<img align='right' src='https://media1.tenor.com/images/5ee0cbb531b8fab27efccf073e075965/tenor.gif?itemid=4641519' width='200'>
 
 Front-end Developer student at [Rocketseat](https://rocketseat.com.br/)
 

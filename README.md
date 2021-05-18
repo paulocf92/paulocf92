@@ -2,7 +2,7 @@
 
 <img align='right' src='https://media.tenor.com/images/5e43669b9573fea08ede20a5bbbbe2df/tenor.gif' width='200'>
 
-Front-end Development student at [Rocketseat](https://rocketseat.com.br/)
+Hybrid Mobile Development student at [Rocketseat](https://rocketseat.com.br/)
 
 <a href="https://linkedin.com/in/paulocf92"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://twitter.com/paulocf92"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
@@ -10,7 +10,7 @@ Front-end Development student at [Rocketseat](https://rocketseat.com.br/)
 <a href="mailto:pcf.feat@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 
 <ul>
-  <li>👨‍💻 ┇ Currently I'm seeking a remote Frontend role;</li>
+  <li>👨‍💻 ┇ Currently I'm seeking a remote hybrid mobile development role;</li>
   <li>💻 ┇ The techs that I mostly enjoy working with are Javascript, Typescript, React Native, ReactJS and Git;</li>
   <li>❤️ ┇ Passionate about problem solution through programming with beautiful UI and pleasant UX;</li>
   <li>🚀 ┇ Willing to contribute in opensource projects;</li>

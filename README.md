@@ -13,7 +13,7 @@ Hybrid Mobile Development student at [Rocketseat](https://rocketseat.com.br/)
   <li>👨‍💻 ┇ I'm a React Native Developer at DevGrid;</li>
   <li>💻 ┇ The techs that I mostly enjoy working with are Javascript, Typescript, React Native, ReactJS and Git;</li>
   <li>❤️ ┇ Passionate about problem solution through programming with beautiful UI and pleasant UX;</li>
-  <li>🚀 ┇ Willing to contribute in opensource projects;</li>
+  <li>🚀 ┇ Adept to #NeverStopLearning movement!
 </ul>
 
 > “Educating the mind without educating the heart is no education at all.”
@@ -28,7 +28,7 @@ Hybrid Mobile Development student at [Rocketseat](https://rocketseat.com.br/)
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/flutter%20-%2340a0ee.svg?&style=for-the-badge&logo=flutter&logoColor=%23fafafa"/>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>

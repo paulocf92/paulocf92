@@ -10,7 +10,7 @@ Hybrid Mobile Development student at [Rocketseat](https://rocketseat.com.br/)
 <a href="mailto:pcf.feat@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 
 <ul>
-  <li>👨‍💻 ┇ Currently I'm seeking a remote hybrid mobile development role;</li>
+  <li>👨‍💻 ┇ I'm a React Native Developer at DevGrid;</li>
   <li>💻 ┇ The techs that I mostly enjoy working with are Javascript, Typescript, React Native, ReactJS and Git;</li>
   <li>❤️ ┇ Passionate about problem solution through programming with beautiful UI and pleasant UX;</li>
   <li>🚀 ┇ Willing to contribute in opensource projects;</li>

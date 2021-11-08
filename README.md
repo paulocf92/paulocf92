@@ -10,7 +10,7 @@
 <a href="mailto:pcf.feat@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 
 <ul>
-  <li>📲 ┇ Hybrid Mobile Development student at [Rocketseat](https://rocketseat.com.br/);</li>
+  <li>📲 ┇ Hybrid Mobile Development student at <a href="https://rocketseat.com.br" target="_blank">Rocketseat</a>;</li>
   <li>💻 ┇ The techs that I mostly enjoy working with are Javascript, Typescript, React Native, ReactJS and Git;</li>
   <li>❤️ ┇ Passionate about problem solution through programming with beautiful UI and pleasant UX;</li>
   <li>🚀 ┇ Adept to #NeverStopLearning movement!

@@ -9,8 +9,7 @@
 <a href="mailto:pcf.feat@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 
 <ul>
-  <li>📱 ┇ Mobile Engineer student (Swift, Kotlin);</li>
-  <li>📲 ┇ Hybrid Mobile Development student (React Native+TS, Flutter);</li>
+  <li>📱 ┇ Hybrid Mobile Development student (React Native+TS, Flutter);</li>
   <li>💻 ┇ The techs that I mostly enjoy working with are Javascript, Typescript, React Native and Flutter;</li>
   <li>❤️ ┇ Passionate about problem solution through programming with beautiful UI and pleasant UX;</li>
   <li>🚀 ┇ Adept to #NeverStopLearning movement!
@@ -30,7 +29,6 @@
   <img src="https://img.shields.io/badge/dart%20-%2322559c.svg?&style=for-the-badge&logo=dart&logoColor=%23fafafa"/>
   <img src="https://img.shields.io/badge/flutter%20-%2340a0ee.svg?&style=for-the-badge&logo=flutter&logoColor=%23fafafa"/>
   <img src="https://img.shields.io/badge/swift%20-%23fafafa.svg?&style=for-the-badge&logo=swift&logoColor=%23f05138"/>
-  <img src="https://img.shields.io/badge/kotlin%20-%23806ee3.svg?&style=for-the-badge&logo=kotlin&logoColor=%23fafafa"/>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>

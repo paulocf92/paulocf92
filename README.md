@@ -37,9 +37,8 @@
 
 ## 📑 My Github Stats:
 
-[![Visits Badge](https://badges.pufler.dev/visits/paulocf92/paulocf92?style=for-the-badge)](https://github.com/paulocf92/paulocf92)
-![Repos Badge](https://badges.pufler.dev/repos/paulocf92?style=for-the-badge)
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=paulocf92&show_icons=true&theme=algolia&line_height=27">
-</p>
+ <div>
+  <a href="https://github.com/paulocf92">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulocf92&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulocf92&layout=compact&langs_count=7&theme=dracula"/>
+</div>

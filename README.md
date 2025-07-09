@@ -1,8 +1,6 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1563481442/6026/meow_sip.png?1563481442" width="30"/> Hi there, I'm Paulo!</h1>
+<h1>Hi there, I'm Paulo!</h1>
 
-<img align='right' src='https://media.tenor.com/images/5e43669b9573fea08ede20a5bbbbe2df/tenor.gif' width='200'>
-
-👨‍💻 React Native Developer at DevGrid.
+👨‍💻 React / React Native Engineer.
 
 <a href="https://linkedin.com/in/paulocf92"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://twitter.com/paulocf92"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>

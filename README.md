@@ -10,7 +10,8 @@
   <li>📱 ┇ Hybrid Mobile Development student (React Native+TS, Flutter);</li>
   <li>💻 ┇ The techs that I mostly enjoy working with are Javascript, Typescript, React Native and Flutter;</li>
   <li>❤️ ┇ Passionate about problem solution through programming with beautiful UI and pleasant UX;</li>
-  <li>🚀 ┇ Adept to #NeverStopLearning movement!
+  <li>🧠 ┇ On the lookout for Web3 technologies</li>
+  <li>🚀 ┇ Adept to #NeverStopLearning
 </ul>
 
 > “Educating the mind without educating the heart is no education at all.”
